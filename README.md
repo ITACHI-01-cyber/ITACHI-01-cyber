@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vivek Bhardwaj</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Student+Working+on+New+Technologies;Full+Stack+Developer;DSA+Enthusiast+in+C;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
@@ -80,18 +79,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itachi-01-cyber&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
-## 🐍 Watch the Snake Eat My Contributions!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itachi-01-cyber/itachi-01-cyber/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itachi-01-cyber/itachi-01-cyber/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/itachi-01-cyber/itachi-01-cyber/output/github-snake.svg" />
-</picture>
-
-## 💻 Weekly Coding Stats
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## 🎯 Random Dev Quote
 
