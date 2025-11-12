@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Vivek+Bhardwaj+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer+%7C+Problem+Solver;Building+the+Future%2C+One+Line+at+a+Time;Open+Source+Enthusiast+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Coding Animation">
 
 <p align="center">
   <a href="https://portfoliomrvbfit.netlify.app/">
@@ -24,36 +24,14 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 ## 🎯 About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```yaml
-name: Vivek Bhardwaj
-located_in: India
-current_focus: DSA in C Programming
-learning: JavaScript, React.js, Full Stack Development
-working_on: To-Do-List App & Smart India Hackathon Project
-portfolio: https://portfoliomrvbfit.netlify.app/
-email: bvivek514@gmail.com
-
-interests:
-  - Competitive Programming
-  - Full Stack Development
-  - Open Source Contribution
-  - Problem Solving
-  - Building Cool Stuff
-
-motto: "When I AM IN, I Always Win! 🔥"
-```
 
 <br clear="right"/>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🚀 Current Journey
 
@@ -75,27 +53,12 @@ motto: "When I AM IN, I Always Win! 🔥"
 
 ### 🎨 Tech I Love
 
-```javascript
-const vivek = {
-    code: ["C", "Java", "JavaScript", "Python", "C++"],
-    technologies: {
-        frontEnd: ["HTML", "CSS", "JavaScript", "React"],
-        backEnd: ["Node.js", "Spring Boot"],
-        databases: ["MongoDB", "Firebase"],
-        tools: ["Git", "VS Code", "Linux"]
-    },
-    currentFocus: "DSA & Full Stack Development",
-    funFact: "Debugging is my cardio 💪"
-};
-```
 
 </td>
 </tr>
 </table>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🛠️ Tech Arsenal
 
@@ -141,27 +104,27 @@ const vivek = {
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=itachi-01-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=itachi-01-cyber&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=itachi-01-cyber&theme=neon&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=FF6B35&sideLabels=C9D1D9&dates=8B949E&stroke=FF6B35" alt="GitHub Streak"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itachi-01-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
 <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=itachi-01-cyber&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Contribution Stats"/>
 
 </div>
 
+---
+
+## 📈 Contribution Graph
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itachi-01-cyber&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itachi-01-cyber&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🏆 GitHub Trophies
 
@@ -170,8 +133,6 @@ const vivek = {
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🎯 Coding Profiles
 
@@ -194,19 +155,15 @@ const vivek = {
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 ## 💡 Random Dev Quote
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyo-night&border=true" alt="Random Dev Quote"/>
 
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 📫 Let's Connect
 
@@ -250,5 +207,3 @@ const vivek = {
 **Made with 💙 by Vivek Bhardwaj**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
-</div>
