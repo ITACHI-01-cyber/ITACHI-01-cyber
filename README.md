@@ -41,9 +41,9 @@
 
 ### 💻 What I'm Up To
 
-- 🔭 **Currently Learning:** DSA in C Programming
+- 🔭 **Currently Learning:** DSA in Java 
 - 🌱 **Exploring:** JavaScript, React.js
-- 👯 **Building:** To-Do-List App
+- 👯 **Building:** Fitness Ai powered App
 - 🎯 **2024 Goal:** Master Full Stack Development
 - 💡 **Hackathon:** Smart India Hackathon Participant
 - 🏆 **Achievement:** Won College Internal Hackathon
