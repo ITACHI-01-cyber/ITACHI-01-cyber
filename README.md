@@ -78,7 +78,7 @@ I love building clean, reliable products and learning in public.
 
 ---
 
-## 📈 Mind‑Blowing Contribution Graphs
+## 📈 Contribution Graphs
 
 <div align="center">
 
@@ -127,7 +127,7 @@ I love building clean, reliable products and learning in public.
 Replace BOTTOM_COVER_IMAGE_URL_HERE with your own aesthetic footer image URL
 (For example: anime landscape, pixel art, or minimal illustration)
 ========================================================================= -->
-<img src="BOTTOM_COVER_IMAGE_URL_HERE" width="100%" alt="Profile Footer Banner" />
+<img src="https://w.wallhaven.cc/full/yq/wallhaven-yqe81l.png" width="100%" alt="Profile Footer Banner" />
 
 <br/>
 
