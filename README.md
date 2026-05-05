@@ -152,23 +152,6 @@ const vivek: Developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/> &nbsp;GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/ITACHI-01-cyber">
-  <img height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=ITACHI-01-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile&card_width=440"
-    alt="GitHub Stats"
-  />
-  <img height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITACHI-01-cyber&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
-</a>
-
-</div>
-
 <br/>
 
 ## 🔥 Streak Stats
@@ -219,20 +202,6 @@ const vivek: Developer = {
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ITACHI-01-cyber/ITACHI-01-cyber/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ITACHI-01-cyber/ITACHI-01-cyber/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation"
-    src="https://raw.githubusercontent.com/ITACHI-01-cyber/ITACHI-01-cyber/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -261,22 +230,6 @@ System Design         █████████████░░░░░░�
 Machine Learning      ███████████░░░░░░░░░░░   45%
 ```
 
-## 🗺️ 2025 Roadmap
-
-<div align="center">
-
-| Quarter | Goal | Status |
-|:---:|---|:---:|
-| Q1 | Master DSA in Java (Arrays → Trees → Graphs) | 🟡 In Progress |
-| Q1 | Educast AI MVP | 🟡 In Progress |
-| Q2 | Spring Boot Microservices | 🔵 Planned |
-| Q2 | System Design Fundamentals | 🔵 Planned |
-| Q3 | ML with Python (Scikit-learn, PyTorch) | 🔵 Planned |
-| Q3 | GATE CSE Full Syllabus Revision | 🔵 Planned |
-| Q4 | Open Source Contributions | 🔵 Planned |
-| Q4 | GATE CSE Exam | 🎯 Target |
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
