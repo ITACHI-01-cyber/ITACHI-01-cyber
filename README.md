@@ -85,39 +85,7 @@ const vivek: Developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"/> &nbsp;Featured Project
 
-### 🎬 Educast AI — *"Learn Smarter. Broadcast Further."*
-
-<table>
-<tr>
-<td width="50%">
-
-**What it does:**
-- 📊 Parses `.pptx` files with `python-pptx`
-- 🤖 Generates narration scripts via **Claude API**
-- 🎙️ Converts scripts to audio with **TTS**
-- 🎬 Stitches slides + audio into video via **ffmpeg**
-- 💬 Integrated AI **Q&A Chatbot** per slide
-
-</td>
-<td width="50%">
-
-**Tech Stack:**
-
-| Layer | Stack |
-|---|---|
-| 🖥️ Frontend | React / Next.js |
-| ⚙️ Backend | Flask / FastAPI |
-| 🤖 AI | Claude API + TTS |
-| 🎞️ Video | ffmpeg + python-pptx |
-| 🗄️ Database | PostgreSQL / Supabase |
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;Tech Arsenal
 
