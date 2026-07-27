@@ -38,14 +38,14 @@
 <td width="50%" valign="top">
 
 ```
-ITACHI-01-cyber@github: ~$ neofetch
+ITACHI-01-cyber@github: ~$ Arch
 ```
 ```yaml
 ITACHI-01-cyber@github
 ──────────────────────────────────────
 Now      Full Stack Dev & AI Builder
-Edu      B.Tech CSE '26 @ Agra, India
-Focus    Spring Boot · React · ML
+Edu      B.Tech CSE '28 @ Institue of Technology Gopeshwar, India
+Focus    Spring Boot · React · UI*UX
 
 — Stack
 Lang     Java, JS, TS, Python, C++
@@ -54,13 +54,11 @@ Frontend React, Next.js, Tailwind CSS
 Database MongoDB, PostgreSQL, Firebase
 AI       Claude API, OpenAI, TTS, ffmpeg
 Tools    Git, Docker, Linux, Postman
-Testing  JUnit 5
 
 — Highlights
 • Building Educast AI (PPT → Videos)
 • Solving NeetCode 150 DSA set
-• GATE CSE 2027 Aspirant
-• SIH Participant | Hackathon Winner
+• SIH Participant | Hackathons 
 
 — github.com/ITACHI-01-cyber
 ```
