@@ -68,17 +68,6 @@ Testing  JUnit 5
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Dev+%7C+B.Tech+CSE+'26+%7C+Spring+Boot+%26+REST+APIs;DSA+in+Java+%7C+GATE+CSE+2027+%7C+Building+Educast+AI;Build.+Break.+Learn.+Repeat.+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ITACHI-01-cyber&label=Profile+Views&color=00D9FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/ITACHI-01-cyber?label=Followers&style=for-the-badge&color=7B2FBE&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00FF88?style=for-the-badge&logoColor=white" />
-
 <br/><br/>
 
 <a href="https://portfoliomrvbfit.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>&nbsp;
@@ -121,27 +110,9 @@ Testing  JUnit 5
 
 </div>
 
----
-
-## 📊 Skills
-
-```
-Java / Spring Boot    ████████████████████░░   85%
-React / Next.js       ███████████████████░░░   80%
-DSA (LeetCode)        ████████████████░░░░░░   70%
-Python / FastAPI      ███████████████░░░░░░░   65%
-System Design         █████████████░░░░░░░░░   55%
-Machine Learning      ███████████░░░░░░░░░░░   45%
-```
-
----
-
 ## 📈 Contributions
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ITACHI-01-cyber&bg_color=0D1117&color=00D9FF&line=00FF88&point=FF6B35&area=true&area_color=00D9FF20&hide_border=true&custom_title=Vivek's%20Contribution%20Graph&radius=8" width="95%" />
-
 <br/>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ITACHI-01-cyber&theme=tokyonight" width="95%" />
@@ -150,31 +121,8 @@ Machine Learning      ███████████░░░░░░░░�
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ITACHI-01-cyber&theme=tokyonight" width="31%"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ITACHI-01-cyber&theme=tokyonight" width="31%"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ITACHI-01-cyber&theme=tokyonight&utcOffset=5.5" width="31%"/>
 
 </div>
-
----
-
-## 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ITACHI-01-cyber&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=700&fire=FF6B35&ring=00D9FF&currStreakLabel=00FF88&sideLabels=00D9FF" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ITACHI-01-cyber&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 🧑‍💻 Coding Profiles
 
@@ -192,8 +140,6 @@ Machine Learning      ███████████░░░░░░░░�
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Star+my+repos+if+you+find+them+useful!;Let's+build+something+amazing+together!;Made+with+passion+by+Vivek+Bhardwaj" alt="Footer typing" />
-
-**Made with 💙 by [Vivek Bhardwaj](https://github.com/ITACHI-01-cyber)**
+**Made with  by [Vivek Bhardwaj](https://github.com/ITACHI-01-cyber)**
 
 </div>
