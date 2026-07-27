@@ -44,7 +44,8 @@ ITACHI-01-cyber@github: ~$ Arch
 ITACHI-01-cyber@github
 ──────────────────────────────────────
 Now      Full Stack Dev & AI Builder
-Edu      B.Tech CSE '28 @ Institue of Technology Gopeshwar, India
+Edu      B.Tech CSE '28 
+@ Institue of Technology Gopeshwar, India
 Focus    Spring Boot · React · UI*UX
 
 — Stack
