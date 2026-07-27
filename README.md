@@ -3,23 +3,35 @@
 <td width="50%" valign="top">
 
 ```
-        ██╗   ██╗██╗██╗   ██╗███████╗██╗  ██╗
-        ██║   ██║██║██║   ██║██╔════╝██║ ██╔╝
-        ██║   ██║██║██║   ██║█████╗  █████╔╝ 
-        ╚██╗ ██╔╝██║╚██╗ ██╔╝██╔══╝  ██╔═██╗ 
-         ╚████╔╝ ██║ ╚████╔╝ ███████╗██║  ██╗
-          ╚═══╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝
-
-     ██████╗ ██╗  ██╗ █████╗ ██████╗ ██████╗ 
-     ██╔══██╗██║  ██║██╔══██╗██╔══██╗██╔══██╗
-     ██████╔╝███████║███████║██████╔╝██║  ██║
-     ██╔══██╗██╔══██║██╔══██║██╔══██╗██║  ██║
-     ██████╔╝██║  ██║██║  ██║██║  ██║██████╔╝
-     ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ 
-
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-    ░  github.com/ITACHI-01-cyber             ░
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+                 .::::.
+              .::::::::::::.
+            .::::::::::::::::::.
+           ::::::'''':::::::''''::
+          ::::   ####  :  ####   ::
+          ::::  ######:  :######  ::
+          ::::  ######:  :######  ::
+          ::::   ####  :  ####   ::
+           :::::      ::::      ::::
+            ':::......:::......::::'
+     .....    '::::::::::::::::::' .....
+   .'     '.    '::: ITACHI ::::'.'     '.
+  /  o   o  \     ':::::::::::' /  o   o  \
+ |     ^     |   .:::::::::::: |     ^     |
+ |   \___/   |  .::::::::::::::|   \___/   |
+  \         / .:::::::::::::::. \         /
+   '.     .' :::::::::::::::::: '.     .'
+  .::'..'.::.::  github.com/  .::'..'.::.
+ .::::::::::::  ITACHI-01-cyber  :::::::::.
+.::::::::::::::::::::::::::::::::::::::::::
+:::: ██╗████████╗ █████╗  ██████╗██╗  ██╗ ::
+::::  ██║╚══██╔══╝██╔══██╗██╔════╝██║  ██║ ::
+::::  ██║   ██║   ███████║██║     ███████║ ::
+::::  ██║   ██║   ██╔══██║██║     ██╔══██║ ::
+:::: ██║   ██║   ██║  ██║╚██████╗██║  ██║ ::
+::::  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ ::
+'::::::::::::::::::::::::::::::::::::::::::'
+ '::  Build . Break . Learn . Repeat  .::'
+  ':::::::::::::::::::::::::::::::::::::'
 ```
 
 </td>
@@ -30,9 +42,9 @@ ITACHI-01-cyber@github: ~$ neofetch
 ```
 ```yaml
 ITACHI-01-cyber@github
-──────────────────────────────
+──────────────────────────────────────
 Now      Full Stack Dev & AI Builder
-Edu      B.Tech CSE '26 @ Agra
+Edu      B.Tech CSE '26 @ Agra, India
 Focus    Spring Boot · React · ML
 
 — Stack
@@ -42,13 +54,15 @@ Frontend React, Next.js, Tailwind CSS
 Database MongoDB, PostgreSQL, Firebase
 AI       Claude API, OpenAI, TTS, ffmpeg
 Tools    Git, Docker, Linux, Postman
-Testing  JUnit 5, Postman
+Testing  JUnit 5
 
 — Highlights
 • Building Educast AI (PPT → Videos)
 • Solving NeetCode 150 DSA set
 • GATE CSE 2027 Aspirant
 • SIH Participant | Hackathon Winner
+
+— github.com/ITACHI-01-cyber
 ```
 
 </td>
@@ -57,7 +71,7 @@ Testing  JUnit 5, Postman
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&height=45&lines=Java+Backend+Dev+%7C+B.Tech+CSE+'26+%7C+Spring+Boot+%26+REST+APIs;DSA+in+Java+%7C+GATE+CSE+Aspirant+%7C+Building+Educast+AI;Build.+Break.+Learn.+Repeat.+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Dev+%7C+B.Tech+CSE+'26+%7C+Spring+Boot+%26+REST+APIs;DSA+in+Java+%7C+GATE+CSE+2027+%7C+Building+Educast+AI;Build.+Break.+Learn.+Repeat.+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
