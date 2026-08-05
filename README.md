@@ -1,52 +1,40 @@
+<div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-```
-                 .::::.
-              .::::::::::::.
-            .::::::::::::::::::.
-           ::::::'''':::::::''''::
-          ::::   ####  :  ####   ::
-          ::::  ######:  :######  ::
-          ::::  ######:  :######  ::
-          ::::   ####  :  ####   ::
-           :::::      ::::      ::::
-            ':::......:::......::::'
-     .....    '::::::::::::::::::' .....
-   .'     '.    '::: ITACHI ::::'.'     '.
-  /  o   o  \     ':::::::::::' /  o   o  \
- |     ^     |   .:::::::::::: |     ^     |
- |   \___/   |  .::::::::::::::|   \___/   |
-  \         / .:::::::::::::::. \         /
-   '.     .' :::::::::::::::::: '.     .'
-  .::'..'.::.::  github.com/  .::'..'.::.
- .::::::::::::  ITACHI-01-cyber  :::::::::.
-.::::::::::::::::::::::::::::::::::::::::::
-:::: ██╗████████╗ █████╗  ██████╗██╗  ██╗ ::
-::::  ██║╚══██╔══╝██╔══██╗██╔════╝██║  ██║ ::
-::::  ██║   ██║   ███████║██║     ███████║ ::
-::::  ██║   ██║   ██╔══██║██║     ██╔══██║ ::
-:::: ██║   ██║   ██║  ██║╚██████╗██║  ██║ ::
-::::  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ ::
-'::::::::::::::::::::::::::::::::::::::::::'
- '::  Build . Break . Learn . Repeat  .::'
-  ':::::::::::::::::::::::::::::::::::::'
+```text
+      ░░
+ 
+    ░░
+  ░░          ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+            ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+████████    ▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+░░████████░░  ▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+░░░░░░░░░░░░░░  ▓▓▒▒▒▒▒▒▒▒▒▒██▒▒▒▒▒▒▒▒▒▒▒▒▒▒██▒▒▒▒▒▒▒▒▒▒
+░░░░░░░░░░░░░░░░  ▓▓▒▒▒▒▒▒▒▒██▒▒██▒▒▒▒▒▒▒▒▒▒██▒▒██▒▒▒▒▒▒▒▒
+░░░░  ░░░░░░░░░░  ▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+  ░░░░░░░░░░░░░░  ▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+      ░░░░░░░░    ▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+                  ▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒████████████████████████
+                  ▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒████████████████████████
+                  ▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒██████████░░████████████
+                    ▓▓▓▓▓▓      ▓▓▓▓██████████░░██░░████████
+                      ▓▓▓▓      ▓▓██████████████░░████████
+                        ▓▓▓▓    ████████████████████████
 ```
 
 </td>
 <td width="50%" valign="top">
 
-```
-ITACHI-01-cyber@github: ~$ Arch
-```
 ```yaml
 ITACHI-01-cyber@github
 ──────────────────────────────────────
 Now      Full Stack Dev & AI Builder
 Edu      B.Tech CSE '28 
-@ Institue of Technology Gopeshwar, India
-Focus    Spring Boot · React · UI*UX
+@ Institute of Technology Gopeshwar, India
+Focus    Spring Boot · React · UI/UX
 
 — Stack
 Lang     Java, JS, TS, Python, C++
@@ -61,13 +49,14 @@ Tools    Git, Docker, Linux, Postman
 • Solving NeetCode 150 DSA set
 • SIH Participant | Hackathons 
 
-— github.com/ITACHI-01-cyber
+— [github.com/ITACHI-01-cyber]
 ```
 
 </td>
 </tr>
 </table>
-<br/><br/>
+
+<br/>
 
 <a href="https://portfolio-seven-pink-00s8hovcy2.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>&nbsp;
 <a href="mailto:bvivek514@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
@@ -139,6 +128,6 @@ Tools    Git, Docker, Linux, Postman
 
 <div align="center">
 
-**Made with  by [Vivek Bhardwaj](https://github.com/ITACHI-01-cyber)**
+**Made with ☕ by [Vivek Bhardwaj](https://github.com/ITACHI-01-cyber)**
 
 </div>
