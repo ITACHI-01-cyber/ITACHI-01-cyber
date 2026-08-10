@@ -35,11 +35,11 @@
 ### ITACHI-01-cyber
 `midnight.vivek` · he/him
 
-I'm a full stack developer obsessed with clean code and building meaningful, impactful software.
+I'm a  developer obsessed with clean code and building meaningful, impactful software.
 
 **12** followers · **12** following
 
-📍 India &nbsp;|&nbsp; 🕐 IST (UTC +5:30) &nbsp;|&nbsp; 📧 [itachi.01.cyber@gmail.com](mailto:itachi.01.cyber@gmail.com)
+📍 India &nbsp;|&nbsp; 🕐 IST (UTC +5:30) &nbsp;|&nbsp; 📧 [bvivek514@gmail.com](mailto:bvivek514@gmail.com)
 
 ---
 
@@ -53,7 +53,7 @@ I'm a full stack developer obsessed with clean code and building meaningful, imp
 
 <br/>
 
-<a href="https://portfolio-seven-pink-00s8hovcy2.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00d4ff"/></a>&nbsp;
+<a href="https://space-portfolio-ten-neon.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00d4ff"/></a>&nbsp;
 <a href="https://github.com/ITACHI-01-cyber"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>&nbsp;
 <a href="mailto:itachi.01.cyber@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
@@ -72,16 +72,22 @@ I'm **Vivek**, a B.Tech CSE '28 student at Institute of Technology Gopeshwar, fo
 
 I build production-ready web apps with **React, Spring Boot, and Node.js**, and I'm continuously improving my understanding of scalable, real-world backend systems.
 
-Currently learning **DevOps, AWS, CI/CD, System Design, and Cybersecurity**, while sharpening my problem-solving through **Data Structures & Algorithms** and preparing for **GATE 2027**.
+Currently learning **DevOps, System Design, and Cybersecurity**, while sharpening my problem-solving through **Data Structures & Algorithms** and preparing for **GATE**.
 
 My goal is simple: write clean code, build reliable software, and grow into an engineer who creates systems that last.
 
-```js
-const developer = {
-  passion: "code",
-  focus: ["build", "learn", "improve"],
-  goal: "leave impact"
-};
+```text
+itachi-01-cyber@github:~$ whoami
+
+VIVEK BHARDWAJ
+Developer
+
+itachi-01-cyber@github:~$ cat bio.txt
+
+"I'm currently pursuing my degree, but I spend most of my time creating
+full stack apps, exploring AI, and building things that solve real problems."
+
+itachi-01-cyber@github:~$ _
 ```
 
 </td>
