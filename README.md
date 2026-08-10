@@ -1,8 +1,10 @@
 <div align="center">
 
+<img src="https://i.pinimg.com/1200x/13/77/0b/13770b74bdf1255ba67908c8e991a28a.jpg" width="100%" alt="banner"/>
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 ```text
       ░░
@@ -26,31 +28,24 @@
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-```yaml
-ITACHI-01-cyber@github
-──────────────────────────────────────
-Now      Full Stack Dev & AI Builder
-Edu      B.Tech CSE '28 
-@ Institute of Technology Gopeshwar, India
-Focus    Spring Boot · React · UI/UX
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgHz8B4UydvaTCfng2Gtbmj7NJdf3-KkUV2w7UKLgY2Z6-olDUbE4zu_A&s=10" width="90" style="border-radius:50%"/>
 
-— Stack
-Lang     Java, JS, TS, Python, C++
-Backend  Spring Boot 3, Node.js, FastAPI
-Frontend React, Next.js, Tailwind CSS
-Database MongoDB, PostgreSQL, Firebase
-AI       Claude API, OpenAI, TTS, ffmpeg
-Tools    Git, Docker, Linux, Postman
+### ITACHI-01-cyber
+`midnight.vivek` · he/him
 
-— Highlights
-• Building Educast AI (PPT → Videos)
-• Solving NeetCode 150 DSA set
-• SIH Participant | Hackathons 
+I'm a full stack developer obsessed with clean code and building meaningful, impactful software.
 
-— [github.com/ITACHI-01-cyber]
-```
+**12** followers · **12** following
+
+📍 India &nbsp;|&nbsp; 🕐 IST (UTC +5:30) &nbsp;|&nbsp; 📧 [itachi.01.cyber@gmail.com](mailto:itachi.01.cyber@gmail.com)
+
+---
+
+**Achievements**
+
+🔥 🎯 🏆
 
 </td>
 </tr>
@@ -58,75 +53,78 @@ Tools    Git, Docker, Linux, Postman
 
 <br/>
 
-<a href="https://portfolio-seven-pink-00s8hovcy2.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>&nbsp;
-<a href="mailto:bvivek514@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/ITACHI-01-cyber"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://portfolio-seven-pink-00s8hovcy2.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00d4ff"/></a>&nbsp;
+<a href="https://github.com/ITACHI-01-cyber"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>&nbsp;
+<a href="mailto:itachi.01.cyber@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 
 </div>
 
 ---
 
-## ⚡ Tech Arsenal
-
-<div align="center">
+## 🚀 About Me
 
 <table>
 <tr>
-  <td align="center" width="90"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="48"/><br/><sub><b>Java</b></sub></td>
-  <td align="center" width="90"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"/><br/><sub><b>JavaScript</b></sub></td>
-  <td align="center" width="90"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48"/><br/><sub><b>TypeScript</b></sub></td>
-  <td align="center" width="90"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"/><br/><sub><b>Python</b></sub></td>
-  <td align="center" width="90"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48"/><br/><sub><b>C++</b></sub></td>
-  <td align="center" width="90"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="48"/><br/><sub><b>React</b></sub></td>
-  <td align="center" width="90"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48"/><br/><sub><b>Docker</b></sub></td>
-</tr>
-<tr>
-  <td align="center" width="90"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="48"/><br/><sub><b>GitHub</b></sub></td>
-  <td align="center" width="90"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48"/><br/><sub><b>MySQL</b></sub></td>
-  <td align="center" width="90"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48"/><br/><sub><b>REST API</b></sub></td>
-  <td align="center" width="90"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48"/><br/><sub><b>Nginx</b></sub></td>
-  <td align="center" width="90"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48"/><br/><sub><b>AWS</b></sub></td>
-  <td align="center" width="90"><img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48"/><br/><sub><b>GraphQL</b></sub></td>
-  <td align="center" width="90"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48"/><br/><sub><b>Redux</b></sub></td>
+<td width="60%" valign="top">
+
+I'm **Vivek**, a B.Tech CSE '28 student at Institute of Technology Gopeshwar, focused on full stack and AI-powered development.
+
+I build production-ready web apps with **React, Spring Boot, and Node.js**, and I'm continuously improving my understanding of scalable, real-world backend systems.
+
+Currently learning **DevOps, AWS, CI/CD, System Design, and Cybersecurity**, while sharpening my problem-solving through **Data Structures & Algorithms** and preparing for **GATE 2027**.
+
+My goal is simple: write clean code, build reliable software, and grow into an engineer who creates systems that last.
+
+```js
+const developer = {
+  passion: "code",
+  focus: ["build", "learn", "improve"],
+  goal: "leave impact"
+};
+```
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://i.pinimg.com/736x/73/da/50/73da50f842ed9f54063bbf6ad076f211.jpg" width="100%"/>
+
+</td>
 </tr>
 </table>
 
-<br/>
-
-[![Skills](https://skillicons.dev/icons?i=spring,nodejs,express,nextjs,tailwind,mongodb,postgresql,firebase,git,linux,figma,postman,vscode,supabase&theme=dark&perline=14)](https://skillicons.dev)
-
-</div>
-
-## 📈 Contributions
-
-<div align="center">
-<br/>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ITACHI-01-cyber&theme=tokyonight" width="95%" />
-
-<br/>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ITACHI-01-cyber&theme=tokyonight" width="31%"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ITACHI-01-cyber&theme=tokyonight" width="31%"/>
-
-</div>
-
-## 🧑‍💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/YOUR_LEETCODE_HERE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK_HERE"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>&nbsp;
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_HERE"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>&nbsp;
-<a href="https://www.codechef.com/users/YOUR_CODECHEF_HERE"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>&nbsp;
-<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_HERE"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-
-</div>
-
 ---
 
+## 🧠 Languages I Know
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,py,js,ts,c,cpp&theme=dark"/>
+</p
+      
+## ⚙️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,spring,nodejs,express,tailwind,mongodb,postgresql,firebase,docker,git,github,linux,aws,postman,vscode&theme=dark&perline=8"/>
+</p>
+
+## 🚀 Featured Projects
+
+
+| Project | Description | Stack |
+|---|---|---|
+| 🗓️ **AI Timetable Generator** | Gemini API based timetable generator for students | Spring Boot, React, MongoDB |
+| 💰 **ExpenseTrack** | Full stack expense tracker to manage income & expenses | Spring Boot, React, MongoDB |
+| ✅ **Track Daily** | Productivity app to track daily habits and goals | React, Node.js, MongoDB |
+| 🌌 **SPACE-PORTFOLIO** | Personal portfolio website built with modern tech | Next.js, Tailwind CSS |
+
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ITACHI-01-cyber&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
 <div align="center">
+
+### Keep coding. Keep building. Keep impacting. 🔥
 
 **Made with ☕ by [Vivek Bhardwaj](https://github.com/ITACHI-01-cyber)**
 
